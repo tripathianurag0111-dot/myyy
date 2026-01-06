@@ -1,0 +1,5 @@
+{
+  "name": "HabitPulse 2026",
+  "description": "A high-performance, offline-first habit tracking application inspired by the 'Daily Habit Tracker' spreadsheet, featuring advanced analytics and persistent local storage.",
+  "requestFramePermissions": []
+}
